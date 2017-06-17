@@ -18,3 +18,10 @@
                 
     // 将这个drawable设置给View
     view.setBackground(drawable);
+    
+
+### 导入项目：
+     
+    你们直接复制源码吧，源码也就只有一个而已，还有就是我还不会如何将项目生成远程连接直接在Android Studio中使用
+    
+    大家谁会呀，教教我可好。
