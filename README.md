@@ -2,11 +2,11 @@
 
 ### 效果图如下：
 
-<div><img src="http://img.blog.csdn.net/20170616175028441?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvWmhhbmdMZWkyODA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width = 40%>
+<div>
+<img src="http://img.blog.csdn.net/20170616175028441?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvWmhhbmdMZWkyODA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width = 40%>
+
+<img src="http://img.blog.csdn.net/20170616174757607?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvWmhhbmdMZWkyODA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast" width = 40%>
 </div>
-
-![效果图](http://img.blog.csdn.net/20170616175028441?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvWmhhbmdMZWkyODA=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
-
 ### 使用方法如下：
 
     BackgroundDrawable drawable = BackgroundDrawable.builder()
