@@ -16,5 +16,5 @@
                 .bottomColor(Color.parseColor("#76C4EB"))//设置下半部分的颜色（默认是白色）
                 .build();//调用build进行创建。
                 
-    //将这个drawable设置给View
+    // 将这个drawable设置给View
     view.setBackground(drawable);
